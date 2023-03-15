@@ -4,6 +4,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+//testing 
 public class WestminsterSkinConsultationManager implements SkinConsultationManager{
     private final int number_of_doctors;
     public static ArrayList<Doctor> doctors = new ArrayList<>(); //Stores all doctor's data
